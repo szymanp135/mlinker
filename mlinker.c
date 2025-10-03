@@ -17,7 +17,8 @@
 
 /* Print credentials info */
 void credentials(void) {
-	printf("mlinker by Paweł Szymański 1.10.2025\nVersion v0.1\n\n");
+	printf("mlinker - a M68000 series assembly programs linker\n by P"
+	"aweł Szymański 3.10.2025\nVersion v0.2\n\n");
 }
 
 /* Print program usage info */
